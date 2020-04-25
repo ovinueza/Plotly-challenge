@@ -3,14 +3,17 @@
 Click [here](https://plotly-interactive-dashboards.herokuapp.com/) to see the app.
 
 ## Background
-Bacteria exists everywhere including in our bodies. This project focuses on visualizing [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/)data.
+Bacteria exists everywhere including in our bodies. This project focuses on visualizing [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/) data.
 
 
 ## Task
-To visualize the data I used plot.ly javascript 
+To visualize the data I used plotly.js
+The visualizations include:
+1 Interactive Pie Chart 
+1 Interactive Bubble Chart
+1 Interactive Gauge Chart
 
-
-
+These charts change by selecting a different Sample from the collected data.
 
 
 <p align="center">
