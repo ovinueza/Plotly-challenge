@@ -1,4 +1,4 @@
-# Plotly challenge
+# Plotly challenge - Bacteria Dashboard Visualization
 
 Click [here](https://plotly-interactive-dashboards.herokuapp.com/) to see the app.
 
