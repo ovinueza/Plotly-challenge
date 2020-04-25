@@ -8,9 +8,13 @@ Bacteria exists everywhere including in our bodies. This project focuses on visu
 
 ## Task
 To visualize the data I used plotly.js
+
 The visualizations include:
+
 1 Interactive Pie Chart 
+
 1 Interactive Bubble Chart
+
 1 Interactive Gauge Chart
 
 These charts change by selecting a different Sample from the collected data.
