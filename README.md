@@ -11,11 +11,11 @@ To visualize the data I used [plotly.js](https://plotly.com/javascript/)
 
 The visualizations include:
 
--1 Interactive Pie Chart 
+- 1 Interactive Pie Chart 
 
--1 Interactive Bubble Chart
+- 1 Interactive Bubble Chart
 
--1 Interactive Gauge Chart
+- 1 Interactive Gauge Chart
 
 These charts change by selecting a different Sample from the collected data.
 
