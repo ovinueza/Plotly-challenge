@@ -7,7 +7,7 @@ Bacteria exists everywhere including in our bodies. This project focuses on visu
 
 
 ## Task
-To visualize the data I used plotly.js
+To visualize the data I used [plotly.js](https://plotly.com/javascript/)
 
 The visualizations include:
 
