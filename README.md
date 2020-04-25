@@ -11,17 +11,17 @@ To visualize the data I used [plotly.js](https://plotly.com/javascript/)
 
 The visualizations include:
 
-1 Interactive Pie Chart 
+-1 Interactive Pie Chart 
 
-1 Interactive Bubble Chart
+-1 Interactive Bubble Chart
 
-1 Interactive Gauge Chart
+-1 Interactive Gauge Chart
 
 These charts change by selecting a different Sample from the collected data.
 
 The visualizations are connected with Flask-API and deployed via Heroku
 
--
+
 
 <p align="center">
   <img width="660" height="400" src="https://github.com/ovinueza/Plotly-challenge/blob/master/Images/dashboard_part1.png">
