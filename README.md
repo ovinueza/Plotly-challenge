@@ -22,7 +22,7 @@ These charts change by selecting a different Sample from the collected data.
 The visualizations are connected with Flask-API and deployed via Heroku
 
 
-
+## Result
 <p align="center">
   <img width="660" height="400" src="https://github.com/ovinueza/Plotly-challenge/blob/master/Images/dashboard_part1.png">
 </p>
