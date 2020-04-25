@@ -1,8 +1,9 @@
 # Plotly challenge
 
+Click [here](https://plotly-interactive-dashboards.herokuapp.com/) to see the app.
+
 ## Background
-Bacteria it 
-[Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/)
+Bacteria exists everywhere including in our bodies. This project focuses on visualizing [Belly Button Biodiversity](http://robdunnlab.com/projects/belly-button-biodiversity/)data.
 
 
 ## Task
