@@ -2,8 +2,10 @@
 
 Belly Button Biodiversity project
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/ovinueza/Plotly-challenge/blob/master/Images/dashboard_part1.png">
+</p>
 
-https://github.com/ovinueza/Plotly-challenge/blob/master/Images/dashboard_part1.png
 
 ## Background
 
